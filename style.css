@@ -86,7 +86,7 @@ html::-webkit-scrollbar-thumb {
     transition: 0.5s;
     width: 75px;
     display: flex;
-    margin-right: 25px;
+    margin-right: 10px;
 }
 nav {
     top: 0;
